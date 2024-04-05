@@ -6,6 +6,6 @@ This repository contains code for developing a deep learning model using TensorF
 
 ### Dataset
 
-The dataset used for training and evaluation consists of images depicting various types of plastic waste. Each image is labeled with the corresponding class, indicating the type of plastic waste it represents. The dataset was preprocessed to ensure uniformity and quality for training the deep learning models.
+The dataset used for training and evaluation consists of images depicting various types of plastic waste. Each image is labeled with the corresponding class, indicating the type of plastic waste it represents. The dataset was preprocessed to ensure uniformity and quality for training the deep learning models.  https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 - **Transfer Learning**: Transfer learning was employed using pre-trained model Xception. These models were fine-tuned on the plastic waste image dataset to leverage features learned from large-scale image datasets.
